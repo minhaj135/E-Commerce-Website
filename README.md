@@ -45,7 +45,10 @@ This project was built collaboratively with a team of 4 members as part of an ac
 ---
 
 ## Screenshots
-(Add your project screenshots here)
+![Home]()
+![Products](images/products.png)
+![Details](images/details.png)
+![Contact](images/contact.png)
 
 ---
 

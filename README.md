@@ -1,10 +1,10 @@
-# 🛍️ E-Commerce Website (Frontend Project)
+# E-Commerce Website (Frontend Project)
 
 A responsive multi-page e-commerce website built using HTML, CSS, and Bootstrap. This project focuses on clean UI design and proper layout structuring.
 
 ---
 
-## 📌 About This Project
+## About This Project
 This was a **group project** developed during my early learning phase (around 3–4 years ago) as part of an institute assignment.
 
 The main goal was to understand:
@@ -16,7 +16,7 @@ The main goal was to understand:
 
 ---
 
-## 🚀 Features
+## Features
 - Multi-page layout (Home, About, Contact, Product pages)  
 - Responsive design using Bootstrap  
 - Clean and organized UI  
@@ -24,19 +24,19 @@ The main goal was to understand:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5  
 - CSS3  
 - Bootstrap  
 
 ---
 
-## 👥 Team Work
+## Team Work
 This project was built collaboratively with a team of 4 members as part of an academic task.
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 - Building structured multi-page websites  
 - Using Bootstrap for responsiveness  
 - Writing clean and organized HTML/CSS  
@@ -44,12 +44,12 @@ This project was built collaboratively with a team of 4 members as part of an ac
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 (Add your project screenshots here)
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 (Add your deployed project link here – GitHub Pages / Netlify)
 
 ---

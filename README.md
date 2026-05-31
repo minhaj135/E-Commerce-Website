@@ -48,8 +48,9 @@ This project was built collaboratively with a team of 4 members as part of an ac
 
 ![Home](images/home.png)
 ![Products](images/products.png)
-![Details](images/details.png)
-![Contact](images/contact.png)
+![Details](images/product-details.png)
+![Contact](images/contact-us.png)
+![About](images/about-us.png)
 
 ---
 
